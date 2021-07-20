@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a5c50d14-5d91-4417-84ff-e28b35db1f32">
+  <producedTypes>
+    <objectType typeId="cef9e838-e749-409c-80ca-2dc9cfaf3695" valueTypeId="2a64d346-cc74-47bb-a32e-bdfba055724b"/>
+    <managerType typeId="7fb3d9de-bc97-4cab-922e-d65a677af9af" valueTypeId="f528eb81-7c00-4a7e-b888-8c72fcc18697"/>
+  </producedTypes>
+  <name>_ЗагрузкаНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка номенклатуры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor._ЗагрузкаНоменклатуры.Form.Форма</defaultForm>
+  <attributes uuid="c68d3b05-5685-4594-af63-f78191c9fc05">
+    <name>ВидНоменклатуры</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вид номенклатуры</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВидыНоменклатуры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+  </attributes>
+  <attributes uuid="617cf250-7cd0-4e66-9434-ab7e5f572e8d">
+    <name>СтавкаНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ставка НДС</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.СтавкиНДС</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+  </attributes>
+  <attributes uuid="6d4ebe60-a6de-4a97-aba8-c3dd3df208e1">
+    <name>Группа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Группа</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <choiceFoldersAndItems>Folders</choiceFoldersAndItems>
+  </attributes>
+  <attributes uuid="78d410b6-a8c7-4033-bd19-64b1717bc2fc">
+    <name>ОбновлятьДанные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обновлять данные</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="91735238-b70f-4d3d-9239-06268f785030">
+    <name>СтатьяКалькуляции</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статья калькуляции</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.СтатьиКалькуляции</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="aa5a3096-9451-4d07-8f13-32315556d79e">
+    <name>ИскатьПоНаименованиюЕслиНетКода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Искать по наименованию если нет кода</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="d50cd129-1ae7-4b2c-8766-fb810062459c">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

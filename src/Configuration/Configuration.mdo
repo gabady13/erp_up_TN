@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="15f5b1cf-fa11-4956-affe-1b953b0a380f">
+  <name>_Доработки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Доработки</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="84f8d5df-a9de-4e1f-b619-e8c834df68de"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="81de7f53-a134-426c-aa34-9029407191da"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="60a00872-912a-4f7a-8b2e-ae2c914470dc"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="255e2d63-23a2-4d5e-b271-72fcd4aafa05"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4087da7f-25c7-4de5-881d-68f492b181a0"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a110b187-ad31-4aa9-a872-ac001b982646"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="49c29862-5b24-4591-97ea-c35906b0ee9f"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.16</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role._ОсновнаяРоль</defaultRoles>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.19</compatibilityMode>
+  <languages uuid="f85044c8-e6b9-4e08-b0d4-18d726d8b999" extendedConfigurationObject="0663bf5b-bcba-4a40-a862-a0b3baa2d884">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem._Доработки</subsystems>
+  <styleItems>StyleItem.ЦветФонаВыделения</styleItems>
+  <styleItems>StyleItem.ГиперссылкаЦвет</styleItems>
+  <styleItems>StyleItem.ЦветТекстаНевыбраннойКартинки</styleItems>
+  <styleItems>StyleItem.ТекстИнформационнойНадписи</styleItems>
+  <styleItems>StyleItem.ПоясняющийТекст</styleItems>
+  <styleItems>StyleItem.ГруппаВариантовОтчетовЦвет</styleItems>
+  <commonPictures>CommonPicture.ЗаполнитьПоШаблону</commonPictures>
+  <commonPictures>CommonPicture.Внимание16</commonPictures>
+  <commonPictures>CommonPicture.Отчеты</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьФорму</commonPictures>
+  <commonPictures>CommonPicture._Доработки</commonPictures>
+  <roles>Role._ОсновнаяРоль</roles>
+  <definedTypes>DefinedType.GTIN</definedTypes>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.КлассификаторВидовЭкономическойДеятельности</catalogs>
+  <catalogs>Catalog.ВидыНоменклатуры</catalogs>
+  <catalogs>Catalog.ГруппыФинансовогоУчетаНоменклатуры</catalogs>
+  <catalogs>Catalog.КлассификаторОКВЭД2</catalogs>
+  <catalogs>Catalog.КоллекцииНоменклатуры</catalogs>
+  <catalogs>Catalog.ОбщероссийскийКлассификаторПродукции</catalogs>
+  <catalogs>Catalog.КлассификаторТНВЭД</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
+  <catalogs>Catalog.ДрагоценныеМатериалы</catalogs>
+  <catalogs>Catalog.ШаблоныЭтикетокИЦенников</catalogs>
+  <catalogs>Catalog.КлассификаторОКПД2</catalogs>
+  <catalogs>Catalog.ЦеновыеГруппы</catalogs>
+  <catalogs>Catalog.ТоварныеКатегории</catalogs>
+  <catalogs>Catalog.РейтингиПродажНоменклатуры</catalogs>
+  <catalogs>Catalog.ХарактеристикиНоменклатуры</catalogs>
+  <catalogs>Catalog.УпаковкиЕдиницыИзмерения</catalogs>
+  <catalogs>Catalog.СхемыОбеспечения</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.ГруппыДоступаНоменклатуры</catalogs>
+  <catalogs>Catalog.Марки</catalogs>
+  <catalogs>Catalog.СтавкиНДС</catalogs>
+  <catalogs>Catalog.СезонныеГруппы</catalogs>
+  <catalogs>Catalog.СпособыОбеспеченияПотребностей</catalogs>
+  <catalogs>Catalog.НаборыУпаковок</catalogs>
+  <catalogs>Catalog.СкладскиеГруппыНоменклатуры</catalogs>
+  <catalogs>Catalog.ГруппыАналитическогоУчетаНоменклатуры</catalogs>
+  <catalogs>Catalog.КодыОперацийРаздела7ДекларацииПоНДС</catalogs>
+  <catalogs>Catalog.ВидыАлкогольнойПродукции</catalogs>
+  <catalogs>Catalog.РесурсныеСпецификации</catalogs>
+  <catalogs>Catalog.СтатьиКалькуляции</catalogs>
+  <enums>Enum.ЕдиницыИзмеренияВремени</enums>
+  <enums>Enum.ВариантыОформленияПродажи</enums>
+  <enums>Enum.ВариантыИспользованияХарактеристикНоменклатуры</enums>
+  <enums>Enum.ТипыНоменклатуры</enums>
+  <enums>Enum.РазмерыКиЗГИСМ</enums>
+  <enums>Enum.ГрадацииКачества</enums>
+  <enums>Enum.ВидыКиЗГИСМ</enums>
+  <enums>Enum.СпособыВыпускаВОборотГИСМ</enums>
+  <enums>Enum.РасположениеДрагоценныхКамней</enums>
+  <enums>Enum.ВариантыПечатиМаршрутнойКартыНаПродукцию</enums>
+  <enums>Enum.ВариантыНазначенияСпецификации</enums>
+  <enums>Enum.СпособыПолученияМатериаловВСпецификации</enums>
+  <dataProcessors>DataProcessor._ЗагрузкаНоменклатуры</dataProcessors>
+</mdclass:Configuration>

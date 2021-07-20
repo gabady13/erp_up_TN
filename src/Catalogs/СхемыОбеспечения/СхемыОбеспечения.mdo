@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="a3260668-c00f-4ae8-b16f-0e4b67896c7a" extendedConfigurationObject="d78d2b14-2e6f-4e87-8bd4-e9e20721de70">
+  <producedTypes>
+    <objectType typeId="3cec5737-99b0-4989-8881-2b0ac95b5643" valueTypeId="9a1cbf85-fce4-43c8-be81-beb15d8d0621"/>
+    <refType typeId="73a4c2e9-32d1-4862-97cb-8e9437ee0dab" valueTypeId="d48dd2da-7280-4feb-abd0-8b783e68d6aa"/>
+    <selectionType typeId="3adf0018-1a9c-4aed-822e-cfa878df77a3" valueTypeId="06961f52-a329-4030-b951-642439c321eb"/>
+    <listType typeId="d2ad5958-7282-481b-9ba9-d1fafaaf575a" valueTypeId="3a6a0a02-b0ea-49d5-86f6-6f967d2df815"/>
+    <managerType typeId="d4a7b9c9-74a0-4813-ada5-b8ed52350b02" valueTypeId="5ef78b0c-7a11-4275-9190-e12bf5a20a28"/>
+  </producedTypes>
+  <name>СхемыОбеспечения</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

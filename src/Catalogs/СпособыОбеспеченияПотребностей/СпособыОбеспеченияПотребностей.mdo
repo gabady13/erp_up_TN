@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="82b7d481-e752-48b6-9911-1844508c8622" extendedConfigurationObject="6e636a63-6f2c-4a16-84b3-965cd15539fe">
+  <producedTypes>
+    <objectType typeId="42bc970a-4dd9-4797-94ea-73ae777e7d5f" valueTypeId="cf5d4503-bdcc-4491-ae02-1f88b5baf0d2"/>
+    <refType typeId="9a8a004a-1dd2-4f97-860d-c205a8440cb9" valueTypeId="42faedf1-a6bc-4f61-8a59-c2a6933c3b94"/>
+    <selectionType typeId="c091b052-1548-41c1-b44e-4511af561aba" valueTypeId="ccae11c6-79b6-4998-b73f-2ce934050e5a"/>
+    <listType typeId="be358914-176f-4e6e-bd85-aeb4d4d82763" valueTypeId="d5c192e7-278a-4dc3-a385-57c8b54a0a0f"/>
+    <managerType typeId="fac735f4-b1d8-4e22-aae9-74e8d634c9f9" valueTypeId="19f6e754-3d08-4b92-ae33-7ae1f007582a"/>
+  </producedTypes>
+  <name>СпособыОбеспеченияПотребностей</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="86230acd-3ad6-4645-b2cc-c2f925199d25" extendedConfigurationObject="efb31464-78f7-4b2c-935a-eed8c7740ac0">
+  <producedTypes>
+    <objectType typeId="a70e261f-1127-4d93-8d8e-42e09f8b9ed3" valueTypeId="6b3c76f6-f85c-4e02-b4b9-2ee889ea34d5"/>
+    <refType typeId="3e1ab388-2c92-46b8-8ffc-a8e5f31a88e8" valueTypeId="a05cef77-dd79-4144-b17a-95f5791f4d59"/>
+    <selectionType typeId="d7b00121-c498-4f25-9359-1171cbad194d" valueTypeId="46e6a2ae-4790-40c8-957b-e1396f9eccf5"/>
+    <listType typeId="c506699a-52f1-4dd5-8995-c16de60f041a" valueTypeId="bdcc06b0-ab53-4cd2-a4d2-5e25c8174f48"/>
+    <managerType typeId="6b6c8fa1-3f19-47ee-9c6b-b8221d1a6735" valueTypeId="2a426187-884f-4bd5-bf47-a74d4efacc7c"/>
+  </producedTypes>
+  <name>ГруппыФинансовогоУчетаНоменклатуры</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

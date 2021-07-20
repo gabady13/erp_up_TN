@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d078bfdc-85e3-497e-92c2-43d3536ec9e8" extendedConfigurationObject="82a9837b-7b1d-4fc6-af27-c44d94d33978">
+  <producedTypes>
+    <refType typeId="8958a12c-5818-4feb-a76c-0b046d86f9be" valueTypeId="35370640-825e-4c4a-9d92-76b3c818fbd0"/>
+    <listType typeId="4ec15050-ef98-4e0b-8d5e-af1f740a5f91" valueTypeId="a9d5f452-fc35-45c8-96f1-3ea0c9083f9d"/>
+    <managerType typeId="b4a0f6f4-f2db-4369-9c6a-304369d32fbb" valueTypeId="eb9e195a-292a-4bb5-a6f2-ff8cea1daf2e"/>
+  </producedTypes>
+  <name>ЕдиницыИзмеренияВремени</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

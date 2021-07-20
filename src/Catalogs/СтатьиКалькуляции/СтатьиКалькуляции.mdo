@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6282faf0-f5b2-4707-b30d-8bf2e4df0f7d" extendedConfigurationObject="7d570377-df59-48e4-a335-2901c46f4d1c">
+  <producedTypes>
+    <objectType typeId="5849aed3-179b-48f6-9bab-29aa1abd95c6" valueTypeId="906c74e1-8f29-4aca-9ea1-de816ad4ffbd"/>
+    <refType typeId="163bc709-2426-491b-80e6-76749cef7bb0" valueTypeId="6689eb08-14d0-4a63-a529-785d9fd4f37f"/>
+    <selectionType typeId="e6f838c1-7190-4455-bb95-451346549b70" valueTypeId="5c664d06-2ed3-4584-8926-250eca923534"/>
+    <listType typeId="23762805-5ddb-4a7f-baa8-945565e6d3a7" valueTypeId="3bcdb398-5f5a-4f5e-8236-f52594368da0"/>
+    <managerType typeId="b5abcff5-5720-408d-a7b5-70f2039945e7" valueTypeId="3558d9c3-66ac-4397-8294-0ec6a63f5784"/>
+  </producedTypes>
+  <name>СтатьиКалькуляции</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

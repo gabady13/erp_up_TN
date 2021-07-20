@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2126f0e1-29a9-4ec6-90b8-10c35f3cff99" extendedConfigurationObject="fb04f2ca-7f86-4692-8545-0b66024c8fd7">
+  <producedTypes>
+    <objectType typeId="191fe3ce-0b7a-48cc-83ec-8e02c37825a5" valueTypeId="7654be5a-4a18-4a64-a8cc-6ecf695cf48c"/>
+    <refType typeId="2afcb35c-d7e0-4305-8150-c9891cf5c77e" valueTypeId="c9a50dfe-d8ab-41fb-89cd-d2966d0be14e"/>
+    <selectionType typeId="8836142a-7654-4e0c-b723-f7466ec71788" valueTypeId="9b98e9eb-875e-4614-8ba3-d7560070e837"/>
+    <listType typeId="96e7f113-0c21-4fca-8e78-cfc8fb4a9039" valueTypeId="dccaf56d-f3c4-401e-8be7-ec253462b208"/>
+    <managerType typeId="b5d86ddd-01b4-4794-8af4-4d1a753d6c23" valueTypeId="f054cc84-ec0e-4488-b39c-04832a1d5130"/>
+  </producedTypes>
+  <name>СезонныеГруппы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

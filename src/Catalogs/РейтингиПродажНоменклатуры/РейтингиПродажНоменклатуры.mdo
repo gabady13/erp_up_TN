@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="db62a73c-b3cd-44de-880f-580405a9ad4d" extendedConfigurationObject="1faee865-aad7-49c1-9fad-bfc58ceb9ce4">
+  <producedTypes>
+    <objectType typeId="6969b150-8926-42a3-a444-febea22792ec" valueTypeId="53983727-38af-4fdf-a369-79b630d07d05"/>
+    <refType typeId="dcb572e9-ef34-4bb7-b452-c90461273480" valueTypeId="9c1b34d6-eb8a-4914-ad02-c2903922451a"/>
+    <selectionType typeId="8792fb2d-63b7-484e-9252-3913256663f0" valueTypeId="dec9155a-ba0d-4cf2-b615-e0e944736d32"/>
+    <listType typeId="60de59b6-c88c-40e8-bafa-57cf29ebdb36" valueTypeId="4cee86db-da6a-4d4e-a5df-ed35ec26ede7"/>
+    <managerType typeId="4743ad8f-b550-43a2-a030-3739b67404a3" valueTypeId="db2651a7-7be9-49d1-9f85-368352805ade"/>
+  </producedTypes>
+  <name>РейтингиПродажНоменклатуры</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7787ff55-fc8a-455c-bdd5-3fab5b6379ca" extendedConfigurationObject="6703d4bc-ae30-4e9e-94c5-6612abfb4366">
+  <producedTypes>
+    <refType typeId="9c42ddfd-59c1-40a0-9c17-8d8e75269382" valueTypeId="83bcfa6d-2d4e-4c63-a6bc-82ec50fa1673"/>
+    <listType typeId="45e08dae-9c35-4d47-997d-eaaa55a497dc" valueTypeId="0b3fa161-cc90-4838-bf33-6677ed42f428"/>
+    <managerType typeId="17b6870a-ac83-4b70-91cd-25532e9ab194" valueTypeId="9660fe76-dfb8-49d3-a6b1-73211bea2af4"/>
+  </producedTypes>
+  <name>РасположениеДрагоценныхКамней</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+</mdclass:Enum>

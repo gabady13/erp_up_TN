@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="9ce76bed-fbd7-4f06-b136-4fc288999010" extendedConfigurationObject="ee5a63d2-90be-4f36-8a88-5415230abebc">
+  <producedTypes>
+    <objectType typeId="00755f03-c1a8-475e-927f-0e5aca125302" valueTypeId="487cc64c-0033-4bfe-a71d-b78845571b01"/>
+    <refType typeId="0752fb5f-fc45-461c-a57d-66e0bf08ff71" valueTypeId="a088bab8-7d55-43f2-ab74-56fc4dc2d037"/>
+    <selectionType typeId="c1e52be4-8b93-40d1-99af-66d919b569d0" valueTypeId="e69161cb-9f30-49b0-9f44-ec4e822107e4"/>
+    <listType typeId="5c1c041f-28fd-48a6-9c25-ad281be10e3a" valueTypeId="7bc0651f-80be-42e2-b868-ff677201725b"/>
+    <managerType typeId="afc094dc-ea7f-488e-8a1a-e5c48c9d9410" valueTypeId="76e5de25-72a3-493a-b616-0d50e82ed9d5"/>
+  </producedTypes>
+  <name>РесурсныеСпецификации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <forms uuid="90c831e6-a905-4a3e-8125-d4424672e9ab" extendedConfigurationObject="4dfdf067-3437-42e2-95f9-fabf98b0ebab">
+    <name>ФормаЭлемента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Catalog>
